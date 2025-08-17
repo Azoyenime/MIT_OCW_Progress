@@ -1,0 +1,14 @@
+MIT_OCW_Progress/
+│
+├── Physics_I_Classical_Mechanics/
+│   ├── notes.md
+│   ├── problem_sets/
+│   │   ├── pset1.pdf
+│   │   ├── pset2.pdf
+│   └── reflections.md
+│
+├── Differential_Equations/
+│   ├── notes.md
+│   └── solved_examples.ipynb
+│
+└── README.md   <-- overview of your learning journey
